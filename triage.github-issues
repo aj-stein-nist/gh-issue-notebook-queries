@@ -1,0 +1,22 @@
+[
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "repo:usnistgov/OSCAL is:open project:usnistgov/OSCAL/52"
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "repo:usnistgov/oscal-content is:open project:usnistgov/oscal-content/1"
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "repo:usnistgov/metaschema is:open project:usnistgov/metaschema/1"
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "repo:usnistgov/oscal-tools is:open project:usnistgov/oscal-tools/1"
+  }
+]

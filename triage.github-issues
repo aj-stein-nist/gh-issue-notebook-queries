@@ -1,8 +1,8 @@
 [
   {
-    "kind": 2,
-    "language": "github-issues",
-    "value": "repo:usnistgov/OSCAL is:open project:usnistgov/OSCAL/52"
+    "kind": 1,
+    "language": "markdown",
+    "value": "All the triage issues for the usnistgov/oscal-content repo."
   },
   {
     "kind": 2,
@@ -10,9 +10,29 @@
     "value": "repo:usnistgov/oscal-content is:open project:usnistgov/oscal-content/1"
   },
   {
+    "kind": 1,
+    "language": "markdown",
+    "value": "All the triage issues for the usnistgov/metaschema repo."
+  },
+  {
     "kind": 2,
     "language": "github-issues",
     "value": "repo:usnistgov/metaschema is:open project:usnistgov/metaschema/1"
+  },
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": "All triage issues for the usnistgov/OSCAL repo."
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "repo:usnistgov/OSCAL is:open project:usnistgov/OSCAL/52"
+  },
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": "All triage issues for the usnistgov/oscal-tools repo."
   },
   {
     "kind": 2,

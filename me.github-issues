@@ -1,7 +1,22 @@
 [
   {
+    "kind": 1,
+    "language": "markdown",
+    "value": "All issues assigned to me across all orgs and projects."
+  },
+  {
     "kind": 2,
     "language": "github-issues",
-    "value": "project:usnistgov/25 assignee:@me field"
+    "value": "assignee:@me"
+  },
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": "All issues across NIST OSCAL projects assigned to me."
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "project:usnistgov/25 assignee:@me"
   }
 ]

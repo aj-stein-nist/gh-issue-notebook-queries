@@ -1,0 +1,1 @@
+{"cells":[{"code":"Test the login credentials are valid and an authenticated session is valid.","kind":"markdown"},{"code":"query { \r\n    viewer {\r\n        login\r\n    }\r\n}","kind":"code"}]}
